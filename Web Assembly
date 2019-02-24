@@ -1,0 +1,18 @@
+Web Assembly 
+
+==> The Next Generation Web PlatForm
+
+In the Words of Creators:=>
+
+WebAssembly, developed by the W3C, is in the words of its creators a “compilation target.” Developers don’t write WebAssembly directly; they write in the language of their choice, which is then compiled into WebAssembly bytecode. The bytecode is then run on the client—typically in a web browser—where it’s translated into native machine code and executed at high speed.
+
+
+WebAssembly code is meant to be faster to load, parse, and execute than JavaScript. When WebAssembly is used by a web browser, there is still the overhead of downloading the WASM module and setting it up, but all other things being equal WebAssembly runs faster. WebAssembly also provides a sandboxed execution model, based on the same security models that exist for JavaScript now.
+
+
+For two decades now, we’ve had only one programming language available to use natively in a web browser: JavaScript. The slow death of third-party binary plug-ins has ruled out other languages, such as Java and Flash’s ActionScript, as first-class citizens for web development. Other web languages, like CoffeeScript, are merely compiled to JavaScript.
+
+It is worth noting that WebAssembly apps aren’t meant to replace JavaScript apps—at least, not yet. Instead, think of WebAssembly as a companion to JavaScript. 
+
+
+Developers should consider WebAssembly for performance-intensive use cases such as games, music streaming, video editing, and CAD applications.
