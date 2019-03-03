@@ -16,3 +16,30 @@ It is worth noting that WebAssembly apps aren’t meant to replace JavaScript ap
 
 
 Developers should consider WebAssembly for performance-intensive use cases such as games, music streaming, video editing, and CAD applications.
+
+
+
+
+
+
+A browser improvement:
+ Browsers will understand the binary format, which means we’ll be able to compile binary bundles that compress smaller than the text JavaScript we use today. Smaller payloads mean faster delivery. Depending on compile-time optimization opportunities, WebAssembly bundles may run faster than JavaScript, too!
+
+
+
+
+#3rd March 2019
+
+Steps included in Web Assembly Creation
+
+Write:	 Write something (or use an existing project) in C, C++, or Rust
+
+Compile:	 Compile it into WebAssembly (giving you a binary .wasm file)
+
+Include: 	Get that .wasm file into a project
+
+Instantiate:	 Write a bunch of asynchronous JavaScript that will compile the .wasm binary and instantiate it into something that JS can play nicely with.
+
+
+Tool Used To Create  a sample .wasm file WebAssemblyExplorer
+
