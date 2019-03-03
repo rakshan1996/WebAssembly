@@ -43,3 +43,11 @@ Instantiate:	 Write a bunch of asynchronous JavaScript that will compile the .wa
 
 Tool Used To Create  a sample .wasm file WebAssemblyExplorer
 
+
+the First Column in image is C++ Program that we want to Compile into .wasm
+Second Column Shows Us the WAT(Web Assembly text ) Format
+Third Column Shows Assembly Code 
+
+
+WAT exists because we humans generally have a hard time making sense of straight binary. It’s essentially a layer of abstraction that helps you understand and interact with your WebAssembly code.
+
