@@ -51,3 +51,64 @@ Third Column Shows Assembly Code
 
 WAT exists because we humans generally have a hard time making sense of straight binary. It’s essentially a layer of abstraction that helps you understand and interact with your WebAssembly code.
 
+
+
+
+
+
+
+April 7th ---Other Content 
+
+Service Workers -- Allowing You to Do Offline????
+SandBoxed Enviroment 
+
+April 7th----W/A means Web Assembly (Implementation Of Web Assembly as in Google I/O 2018
+https://codelabs.developers.google.com/codelabs/hour-chipmunk/#0)
+
+
+web assembly is a new low level binary Format 
+Compiled From Other Languages 
+Offer maximized Perfomance
+
+Advantages of Web Assembly:->>
+Perfomance
+W/A designed For Speed 
+javascript is Dynamic Language (Easier to Write )
+
+
+W/A offers amazing Portabilty
+Compile From Other Languages (C++)
+ C++ is Supported on Every Platform including Ios and android 
+ C++ as a common language 
+
+
+ W/A Flexibilty
+Currently Supported Languages are C ,C++, Rust
+Other Languages Adding Support Kotlin and .Net
+
+
+
+Why Do W/A matters
+Why Do We wanna add interactivity in web ?
+
+
+Initial Page
+Javascript Came Along and was Created Within a single 10-Day Hackathon
+Bring Some Basic level of Code  
+
+
+Why Did App's Start Moving to Web?
+Increase in Interactivity?
+ Three Fundamental Powers of Web
+ --Linkabilty
+ ur app is accessible through a single sharable String 
+--Safety 
+	Need Not to be Installed the app is Delivered to you in a Sandboxed Enviroment 
+--Universal Platform
+Code Base Lives in a Single Place and All the User Can access
+
+
+W/A was not Created to Replace JavaScript
+the two were Designed to InteOperate 
+
+
